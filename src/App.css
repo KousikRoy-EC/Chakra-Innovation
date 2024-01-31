@@ -1,0 +1,28 @@
+.app {
+  max-width: 1440px;
+  padding: 16px;
+  border-radius: 32px;
+  background: var(--Off-White, #F6F6F3);
+
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.links{
+  width: -webkit-fill-available;
+  height: -webkit-fill-available;
+  display: flex;
+  justify-content: flex-start;
+  align-items: end;
+}
+
+
+.chip-btn{
+  background-color: #FFF7E8;
+  color:#734A00 
+}
+
+.hoverbg:hover{
+  background-color: #FFF7E8;
+}
